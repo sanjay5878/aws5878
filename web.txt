@@ -1,0 +1,2 @@
+<h1>Velocity Application</h1>
+<h2>HomePage for Velocity Application</h2>
